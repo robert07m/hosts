@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "bogdan"
+
 verifica_ip() {
     local name="$1"
     local ip="$2"
